@@ -1,0 +1,20 @@
+h1{
+
+  color:orange;
+  font-size: 200px;
+  text-align: center;
+}
+p{
+  text-align: center;
+  font-size: 50px;
+  color: green;
+  background-color: bisque;
+}
+img{
+  align-items: center;
+  background-color: #f9d56e;
+}
+body{
+
+  background-image: url(https://previews.123rf.com/images/usbfco/usbfco1606/usbfco160600032/58669039-seamless-pattern-with-pizza-ingrediends.jpg);
+}
